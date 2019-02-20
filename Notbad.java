@@ -31,7 +31,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author HD
+ * @author fatema
  */
 public class Notbad extends Application {
     
